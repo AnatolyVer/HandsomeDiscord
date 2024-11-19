@@ -7,8 +7,11 @@ button {
     --accentcolor: var(--accent-alt);
 }
 
-
-/* Root Variables */
+/*Voice channel preview background*/
+.root_dd069c {
+    object-fit: cover;
+    background: url('https://anatolyver.github.io/HandsomeDiscord/background.gif') center center;
+}
 
 :root {
     --font-primary: 'Karla', sans-serif;
@@ -24,7 +27,7 @@ button {
     --accent-alt: 29, 101, 134;
     --md-black: 0, 0, 0;
     --dm-white: 255, 255, 255;
-
+    --error: red;
     --accentcolor: var(--accent);
     --vaccentcolor-hover: rgb(var(--accent));
     --vaccentcolor-active: rgb(var(--accent));
