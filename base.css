@@ -9,8 +9,8 @@ button {
 
 /*Voice channel preview background*/
 .root_dd069c {
-    object-fit: cover;
-    background: url('https://anatolyver.github.io/HandsomeDiscord/background.gif') center center;
+    object-fit: cover !important;
+    background: url('https://anatolyver.github.io/HandsomeDiscord/background.gif') center center !important;
 }
 
 :root {
